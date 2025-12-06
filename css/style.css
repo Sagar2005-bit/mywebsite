@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+.profile-img {
+    width: 150px;    /* change this value to the desired width */
+    height: auto;    /* preserves aspect ratio */
+    max-width: 100%; /* keeps it responsive on small screens */
+    display: block;
+}
+
+nav a {
+    margin: 10px;
+    color: green;
+    font-weight: bold;
+}
+
+table {
+    background: white;
+    padding: 10px;
+}
+
